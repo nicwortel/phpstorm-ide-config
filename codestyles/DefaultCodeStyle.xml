@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="DefaultCodeStyle">
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
