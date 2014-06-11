@@ -1,6 +1,7 @@
 # Don't add the following files and folders to the repository:
 componentVersions
 options
+tasks
 port
 
 # Especially the file that holds the license key:
