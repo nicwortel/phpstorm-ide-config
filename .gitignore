@@ -1,4 +1,7 @@
+# Don't add the following files and folders to the repository:
 componentVersions
 options
-*.key
 port
+
+# Especially the file that holds the license key:
+*.key
