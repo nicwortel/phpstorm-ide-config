@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="DefaultCodeStyle">
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
