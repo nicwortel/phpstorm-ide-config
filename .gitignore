@@ -2,6 +2,7 @@
 componentVersions
 options
 tasks
+plugins
 port
 
 # Especially the file that holds the license key:
