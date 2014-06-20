@@ -27,3 +27,15 @@ Linux | `~/.WebIdeXX/config`
 Mac OS | `~/Library/Preferences/.WebIdeXX`
 
 See [Project and IDE settings](http://www.jetbrains.com/phpstorm/webhelp/project-and-ide-settings.html#d610183e276) for more information.
+
+## Subdirectories of the config folder
+
+Directory | Contents
+----------|---------
+codestyles | Code Style settings (Project Settings > Code Style)
+colors | Colors & Fonts settings (IDE Settings > Editor > Colors & Fonts)
+fileTemplates | File and Code Templates (IDE Settings > File and Code Templates)
+filetypes | File Types (IDE Settings > File Types)
+inspection | Inspection profiles (Project Settings > Inspections)
+keymaps | Keyboard shortcuts (IDE Settings > Keymap)
+templates | Live templates (IDE Settings > Live Templates)
