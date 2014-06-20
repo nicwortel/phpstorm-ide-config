@@ -1,5 +1,4 @@
-Installation
-------------
+# Installation
 
 Before you do this, make sure PHPStorm is not running, or it will overwrite your changes.
 
