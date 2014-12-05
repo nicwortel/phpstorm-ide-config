@@ -1,6 +1,10 @@
+Note: I use PHPStorm 8. This might work with other versions as well, but I cannot guarantee.
+
 # Installation
 
 Before you do this, make sure PHPStorm is not running, or it will overwrite your changes.
+
+Use the following commands to go to the config directory, remove some default directories, and pull the files from my repository:
 
 ```bash
 # replace .WebIdeXX with the actual name of the folder: .WebIde70 for PHPStorm 7, .WebIde80 for PHPStorm 8.
