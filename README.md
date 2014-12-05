@@ -1,4 +1,7 @@
-Note: I use PhpStorm 8. This might work with other versions as well, but I cannot guarantee.
+This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/). PhpStorm is an IDE for PHP. I have some custom configuration for code styling, inspections and file templates, and I use
+Git to track these configuration files and to synchronize them between workstations. The code style rules follow PSR-2 but I also added some things that are not specified in the PSR guidelines.
+
+Feel free to use or fork this repository. Note: I use PhpStorm 8. These settings might work with other versions as well, but I cannot guarantee.
 
 # Installation
 
