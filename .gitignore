@@ -4,6 +4,7 @@ options
 tasks
 plugins
 port
+quicklists
 
 # Especially the file that holds the license key:
 *.key
