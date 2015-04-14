@@ -5,6 +5,8 @@ tasks
 plugins
 port
 quicklists
+disabled_plugins.txt
+disabled_update.txt
 
 # Especially the file that holds the license key:
 *.key
