@@ -39,10 +39,10 @@ See [Project and IDE settings](http://www.jetbrains.com/phpstorm/webhelp/project
 
 Directory | Contents
 ----------|---------
-codestyles | Code Style settings (Project Settings > Code Style)
-colors | Colors & Fonts settings (IDE Settings > Editor > Colors & Fonts)
-fileTemplates | File and Code Templates (IDE Settings > File and Code Templates)
-filetypes | File Types (IDE Settings > File Types)
-inspection | Inspection profiles (Project Settings > Inspections)
-keymaps | Keyboard shortcuts (IDE Settings > Keymap)
-templates | Live templates (IDE Settings > Live Templates)
+codestyles | Code Style settings (Editor > Code Style)
+colors | Colors & Fonts settings (Editor > Colors & Fonts)
+fileTemplates | File and Code Templates (Editor > File and Code Templates)
+filetypes | File Types (Editor > File Types)
+inspection | Inspection profiles (Editor > Inspections)
+keymaps | Keyboard shortcuts (Appearance & Behavior > Keymap)
+templates | Live templates (Editor > Live Templates)
