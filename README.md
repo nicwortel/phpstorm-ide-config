@@ -5,13 +5,13 @@ Feel free to use or fork this repository. Note: I use PhpStorm 8. These settings
 
 # Installation
 
-Before you do this, make sure PhpStorm is not running, or it will overwrite your changes.
+Before you do this, make sure PhpStorm is not running, or it will overwrite the changed files before shutting down.
 
 Use the following commands to go to the config directory, remove some default directories, and pull the files from my repository:
 
 ```bash
-# replace .WebIdeXX with the actual name of the folder: .WebIde70 for PhpStorm 7, .WebIde80 for PhpStorm 8.
-cd ~/.WebIdeXX/config
+# replace with the actual directory name, depending on OS and PhpStorm version (see below).
+cd ~/.WebIde80/config
 
 # remove the files and folders that are in this repository
 rm -r codestyles/
@@ -33,7 +33,7 @@ Windows Vista | `C:\Users\<User name>\.WebIdeXX\config`
 Linux | `~/.WebIdeXX/config`
 OS X | `~/Library/Preferences/WebIdeXX`
 
-See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information.
+Replace 'XX' with the version number of PhpStorm: WebIde70 for PhpStorm 7, WebIde80 for PhpStorm 8. See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information about the configuration directory structure.
 
 ## Subdirectories of the config folder
 
