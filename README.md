@@ -31,7 +31,7 @@ OS | Location
 Windows XP | `C:\Documents and Settings\<User name>\.WebIdeXX\config`
 Windows Vista | `C:\Users\<User name>\.WebIdeXX\config`
 Linux | `~/.WebIdeXX/config`
-Mac OS | `~/Library/Preferences/WebIdeXX`
+OS X | `~/Library/Preferences/WebIdeXX`
 
 See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information.
 
