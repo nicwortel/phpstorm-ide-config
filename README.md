@@ -33,7 +33,7 @@ Windows Vista | `C:\Users\<User name>\.WebIdeXX\config`
 Linux | `~/.WebIdeXX/config`
 Mac OS | `~/Library/Preferences/WebIdeXX`
 
-See [Project and IDE settings](http://www.jetbrains.com/phpstorm/webhelp/project-and-ide-settings.html#d610183e276) for more information.
+See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information.
 
 ## Subdirectories of the config folder
 
