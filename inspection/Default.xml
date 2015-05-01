@@ -1,4 +1,4 @@
-<inspections profile_name="Default" version="1.0" is_locked="false">
+<inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
   <option name="myLocal" value="true" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />

@@ -1,7 +1,7 @@
 This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/). PhpStorm is an IDE for PHP. I have some custom configuration for code styling, inspections and file templates, and I use
 Git to track these configuration files and to synchronize them between workstations. The code style rules follow PSR-2 but I also added some things that are not specified in the PSR guidelines.
 
-Feel free to use or fork this repository. Note: I use PhpStorm 8. These settings might work with other versions as well, but I cannot guarantee.
+Feel free to use or fork this repository. Note that I use PhpStorm 9 (Early Access Program). I cannot guarantee compatibility with other versions of PhpStorm.
 
 # Installation
 
@@ -33,7 +33,7 @@ Windows Vista | `C:\Users\<User name>\.WebIdeXX\config`
 Linux | `~/.WebIdeXX/config`
 OS X | `~/Library/Preferences/WebIdeXX`
 
-Replace 'XX' with the version number of PhpStorm: WebIde70 for PhpStorm 7, WebIde80 for PhpStorm 8. See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information about the configuration directory structure.
+Replace 'XX' with the version number of PhpStorm: WebIde80 for PhpStorm 8, WebIde90 for PhpStorm 9, etc. See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information about the configuration directory structure.
 
 ## Subdirectories of the config folder
 
