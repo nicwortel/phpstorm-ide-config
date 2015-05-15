@@ -3,6 +3,14 @@ Git to track these configuration files and to synchronize them between workstati
 
 Feel free to use or fork this repository. Note: I use PhpStorm 8. These settings might work with other versions as well, but I cannot guarantee.
 
+## Code style settings overview
+
+Language          | Settings
+------------------|---------
+PHP               | [PSR-2](http://www.php-fig.org/psr/psr-2/), [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
+HTML / Twig       | 4 spaces
+CSS / SCSS / LESS | 2 spaces
+
 # Installation
 
 Before you do this, make sure PhpStorm is not running, or it will overwrite the changed files before shutting down.
