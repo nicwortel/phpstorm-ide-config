@@ -10,6 +10,7 @@ Language          | Settings
 PHP               | [PSR-2](http://www.php-fig.org/psr/psr-2/), [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
 HTML / Twig       | 4 spaces
 CSS / SCSS / LESS | 2 spaces
+Yaml              | 2 spaces
 
 # Installation
 
