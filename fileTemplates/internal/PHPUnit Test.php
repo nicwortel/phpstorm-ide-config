@@ -5,9 +5,13 @@
 namespace ${NAMESPACE};
 #end
 
-class ${NAME} extends#if(${NAMESPACE}) \PHPUnit_Framework_TestCase
-#else PHPUnit_Framework_TestCase
+#if(${NAMESPACE})use PHPUnit_Framework_TestCase;
 #end
+
+class ${NAME} extends PHPUnit_Framework_TestCase
 {
-    
+    protected function setUp()
+    {
+
+    }
 }
