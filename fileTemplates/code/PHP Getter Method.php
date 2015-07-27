@@ -1,6 +1,4 @@
 /**
- * Get ${FIELD_NAME}
- *
  * @return ${TYPE_HINT}
  */
 public ${STATIC} function get${NAME}()

@@ -1,6 +1,4 @@
 /**
- * Set ${FIELD_NAME}
- *
  * @param ${TYPE_HINT} $${PARAM_NAME}
  *
  * @return ${CLASS_NAME}
