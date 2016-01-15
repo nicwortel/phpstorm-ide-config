@@ -1,12 +1,7 @@
-# Don't add the following files and folders to the repository:
-componentVersions
-options
-tasks
-plugins
-port
-quicklists
-disabled_plugins.txt
-disabled_update.txt
+/options/
+/plugins/
+/port
+/port.lock
+/tasks/
 
-# Especially the file that holds the license key:
 *.key
