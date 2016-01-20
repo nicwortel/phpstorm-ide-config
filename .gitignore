@@ -1,4 +1,5 @@
-/options/
+/options
+!/options/editor.xml
 /plugins/
 /port
 /port.lock
