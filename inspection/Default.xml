@@ -4,6 +4,9 @@
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="STRICT_TYPE_CHECKING" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="CHECK_FUNCTION" value="false" />
     <option name="CHECK_CLASS" value="false" />
