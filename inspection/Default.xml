@@ -5,7 +5,9 @@
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="CHECK_FUNCTION" value="false" />
     <option name="CHECK_CLASS" value="false" />
+    <option name="CHECK_METHOD" value="false" />
     <option name="CHECK_FIELD" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
