@@ -1,9 +1,9 @@
-[![PhpStorm version](https://img.shields.io/badge/PhpStorm-2016.1-brightgreen.svg)](https://www.jetbrains.com/phpstorm/)
+[![PhpStorm version](https://img.shields.io/badge/PhpStorm-2016.2-brightgreen.svg)](https://www.jetbrains.com/phpstorm/)
 
 This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/). PhpStorm is an IDE for PHP. I have some custom configuration for code styling, inspections and file templates, and I use
 Git to track these configuration files and to synchronize them between workstations. The code style rules follow PSR-2 but I also added some things that are not specified in the PSR guidelines.
 
-Feel free to use or fork this repository. Note that I use PhpStorm 2016.1. I cannot guarantee compatibility with other versions of PhpStorm.
+Feel free to use or fork this repository. Note that I use PhpStorm 2016.2. I cannot guarantee compatibility with other versions of PhpStorm.
 
 ## Code style settings overview
 
@@ -22,7 +22,7 @@ Use the following commands to go to the config directory, remove some default di
 
 ```bash
 # replace with the actual directory name, depending on OS and PhpStorm version (see below).
-cd ~/.PhpStorm2016.1/config
+cd ~/.PhpStorm2016.2/config
 
 # remove the files and folders that are in this repository
 rm -r codestyles/
@@ -39,10 +39,10 @@ git checkout -t origin/master
 
 OS | Location
 ---|---------
-Windows XP | `C:\Documents and Settings\<User name>\.PhpStorm2016.1\config`
-Windows Vista | `C:\Users\<User name>\.PhpStorm2016.1\config`
-Linux | `~/.PhpStorm2016.1/config`
-OS X | `~/Library/Preferences/PhpStorm2016.1`
+Windows XP | `C:\Documents and Settings\<User name>\.PhpStorm2016.2\config`
+Windows Vista | `C:\Users\<User name>\.PhpStorm2016.2\config`
+Linux | `~/.PhpStorm2016.2/config`
+OS X | `~/Library/Preferences/PhpStorm2016.2`
 
 Before PhpStorm 2016.1, configuration was stored in a different directory. This was .WebIde100 for PhpStorm 10, .WebIde90 for PhpStorm 9, etc. See [Project and IDE settings](https://www.jetbrains.com/phpstorm/help/project-and-ide-settings.html#d739736e149) for more information about the configuration directory structure.
 
