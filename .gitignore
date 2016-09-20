@@ -1,3 +1,7 @@
+/colors/
+/consoles/
+/extensions/
+/jdbc-drivers/
 /options
 !/options/editor.xml
 /plugins/
