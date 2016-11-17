@@ -1,4 +1,4 @@
-public ${STATIC} function get${NAME}(): ${TYPE_HINT}
+public ${STATIC} function ${GET_OR_IS}${NAME}()#if (${RETURN_TYPE}): ${RETURN_TYPE}#end
 {
 #if (${STATIC} == "static")
     return self::$${FIELD_NAME};
