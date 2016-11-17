@@ -6,7 +6,7 @@ namespace ${NAMESPACE};
 #end
 
 #parse("PHP Class Doc Comment.php")
-class ${NAME}
+final class ${NAME}
 {
     
 }
