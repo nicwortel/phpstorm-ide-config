@@ -1,0 +1,8 @@
+<templateSet group="PHPUnit">
+  <template name="@test" value="/**&#10; * @test&#10; */&#10;public function $NAME$()&#10;{&#10;&#9;$END$&#10;}" description="PHPUnit test" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
