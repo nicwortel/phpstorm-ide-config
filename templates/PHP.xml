@@ -1,0 +1,38 @@
+<templateSet group="PHP">
+  <template name="pubf" value="public function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pubsf" value="public static function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prof" value="protected function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="protected function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prosf" value="protected static function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="protected static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prif" value="private function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prisf" value="private static function $NAME$($PARAMETERS$): $RETURN_TYPE$ {&#10;    $END$&#10;}" description="private static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
