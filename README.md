@@ -7,6 +7,8 @@ Git to track these configuration files and to synchronize them between workstati
 
 Feel free to use or fork this repository. Note that I use PhpStorm 2016.3. I cannot guarantee compatibility with other versions of PhpStorm.
 
+Some configuration is specifically for the [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) plugin. I guess this is ignored when you don't have the plugin.
+
 ## Code style settings overview
 
 Language          | Settings
