@@ -3,7 +3,7 @@
 [![PhpStorm version](https://img.shields.io/badge/PhpStorm-2017.1-brightgreen.svg)](https://www.jetbrains.com/phpstorm/)
 
 This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/), my favorite IDE for PHP. I have some custom configuration for code styling, inspections and file templates, and I use
-Git to track these configuration files and to synchronize them between workstations. The code style rules follow PSR-2 but I also added some things that are not specified in the PSR guidelines.
+Git to track these configuration files and to synchronize them between workstations. The code style rules are based on PSR-1, PSR-2 and PSR-12 (which is still a proposal) but I also added some things that are not specified in the PSR guidelines.
 
 Feel free to use or fork this repository. Note that I use PhpStorm 2017.1. I cannot guarantee compatibility with other versions of PhpStorm.
 
@@ -11,9 +11,9 @@ Some configuration is specifically for the [Php Inspections (EA Extended)](https
 
 ## Code style settings overview
 
-Language          | Settings
+Language          | Standards
 ------------------|---------
-PHP               | [PSR-2](http://www.php-fig.org/psr/psr-2/), [Symfony Coding Standards](https://symfony.com/doc/current/contributing/code/standards.html)
+PHP               | [PSR-2](http://www.php-fig.org/psr/psr-2/), [PSR-12](https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md)
 HTML / Twig       | 4 spaces
 CSS / SCSS / LESS | 2 spaces
 Yaml              | 2 spaces
