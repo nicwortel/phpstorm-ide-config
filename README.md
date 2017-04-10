@@ -1,6 +1,7 @@
 # PhpStorm IDE configuration
 
 [![PhpStorm version](https://img.shields.io/badge/PhpStorm-2017.1-brightgreen.svg)](https://www.jetbrains.com/phpstorm/)
+[![License](https://img.shields.io/github/license/nicwortel/phpstorm-ide-config.svg)](https://github.com/nicwortel/phpstorm-ide-config/blob/master/LICENSE.txt)
 
 This is my global configuration for [PhpStorm](https://www.jetbrains.com/phpstorm/), my favorite IDE for PHP. I have some custom configuration for code styling, inspections and file templates, and I use
 Git to track these configuration files and to synchronize them between workstations. The code style rules are based on PSR-1, PSR-2 and PSR-12 (which is still a proposal) but I also added some things that are not specified in the PSR guidelines.
