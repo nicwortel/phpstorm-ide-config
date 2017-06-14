@@ -44,8 +44,7 @@ git checkout -t origin/master
 
 OS | Location
 ---|---------
-Windows XP | `C:\Documents and Settings\<User name>\.PhpStorm2017.2\config`
-Windows Vista | `C:\Users\<User name>\.PhpStorm2017.2\config`
+Windows | `C:\Users\<User name>\.PhpStorm2017.2\config`
 Linux | `~/.PhpStorm2017.2/config`
 OS X | `~/Library/Preferences/PhpStorm2017.2`
 
