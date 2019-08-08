@@ -2,6 +2,7 @@
 /consoles/
 /disabled_*
 /extensions/
+/javascript/
 /jdbc-drivers/
 /options
 !/options/editor.xml
@@ -9,5 +10,7 @@
 /port
 /port.lock
 /tasks/
+/user.web.token
+/workspace/
 
 *.key
