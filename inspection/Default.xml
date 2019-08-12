@@ -2,6 +2,12 @@
   <option name="myName" value="Default" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="SKIP_ON_PRESENT_TYPE_HINT" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ALLOW_MISSING_PARAMETERS" value="true" />
+  </inspection_tool>
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpIncompatibleReturnTypeInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="STRICT_TYPE_CHECKING" value="true" />
