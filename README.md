@@ -26,7 +26,7 @@ Use the following commands to go to the config directory, remove some default di
 
 ```bash
 # replace with the actual directory name, depending on OS and PhpStorm version (see below).
-cd ~/.PhpStorm2019.3/config
+cd ~/.config/JetBrains/PhpStorm2020.2
 
 # remove the files and folders that are in this repository
 rm -r codestyles/
@@ -41,11 +41,11 @@ git checkout -t origin/master
 
 ### Location of the config folder
 
-OS | Location
----|---------
-Windows | `C:\Users\<User name>\.PhpStorm2019.3\config`
-Linux | `~/.PhpStorm2019.3/config`
-OS X | `~/Library/Preferences/PhpStorm2019.3`
+OS | Syntax | Example
+---|---|---
+Linux | `~/.config/JetBrains/<product><version>` | `~/.config/JetBrains/PhpStorm2020.2`
+macOS | `~/Library/Application Support/JetBrains/<product><version>` | `~/Library/Application Support/JetBrains/PhpStorm2020.2`
+Windows | `%APPDATA%\JetBrains\<product><version>` | `C:\Users\JohnS\AppData\Roaming\JetBrains\PhpStorm2020.2`
 
 See [Default IDE directories](https://www.jetbrains.com/help/phpstorm/tuning-the-ide.html#default-dirs) for more information about the location of the configuration directory.
 
