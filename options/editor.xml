@@ -1,7 +1,6 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+  <component name="CodeVisionSettings">
+    <option name="defaultPosition" value="Right" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
